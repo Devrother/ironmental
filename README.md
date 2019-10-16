@@ -7,6 +7,10 @@
 
 > 기여 해주신 분들 정말 감사합니다! :D :pray:
 
+## 한줄 소개
+
+다양한 개발상식을 가볍게 접하고 싶은 이용자에게 매주 개발상식 관련 키워드를 이메일로 보내주는 구독 서비스입니다.
+
 ## 상세 내용
 
 ### 개발 동기
@@ -29,3 +33,13 @@
 저희의 목표는 학생, 비전공자 상관없이 개발을 시작하는 모든 분이 개발 상식을 찾는 데 소비하는 시간을 없애는 게 목표입니다 :D
 
 저희가 보내주는 이메일을 확인만 해주세요. 그럼 그날 여러분은 작게나마 어제보다 나은 개발자가 되어 있을 거예요 :)
+
+
+## 레파지토리 링크
+
+### 프론트엔드
+- [Front-end](https://github.com/Devrother/ironmental-frontend)
+
+### 백엔드
+- [Back-end](https://github.com/Devrother/ironmental-backend)
+- [Weekly send contents with email](https://github.com/Devrother/ironmental-send-contents)
