@@ -34,6 +34,13 @@
 
 저희가 보내주는 이메일을 확인만 해주세요. 그럼 그날 여러분은 작게나마 어제보다 나은 개발자가 되어 있을 거예요 :)
 
+## Contribute
+
+* 개발 상식 컨텐츠들을 추가하고 싶으신 분은 언제든지 [ironmental repository 의 contents](https://github.com/Devrother/ironmental/tree/master/contents) 폴더에 [PR](https://github.com/Devrother/ironmental/pulls) 을 날려주세요. 
+
+> PR 규칙은 [CONTRIBUTE](https://github.com/Devrother/ironmental/tree/master/CONTRIBUTE.md) 에서 확인해주세요.
+
+* 개발 상식 컨텐츠에 잘못된 설명 또는 서비스 기능 제안 등 다양한 이슈는 [ISSUES](https://github.com/Devrother/ironmental/issues) 에 등록해주세요.
 
 ## 레파지토리 링크
 
@@ -43,3 +50,4 @@
 ### 백엔드
 - [Back-end](https://github.com/Devrother/ironmental-backend)
 - [Weekly send contents with email](https://github.com/Devrother/ironmental-send-contents)
+
